@@ -15,6 +15,7 @@
 		68E165D61C97EBF8001058DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68E165D41C97EBF8001058DD /* LaunchScreen.storyboard */; };
 		68E165E11C97EBF8001058DD /* TransformTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68E165E01C97EBF8001058DD /* TransformTests.m */; };
 		68E165EC1C97EBF8001058DD /* TransformUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68E165EB1C97EBF8001058DD /* TransformUITests.m */; };
+		68E165FA1C97ECA2001058DD /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = 68E165F91C97ECA2001058DD /* green.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		68E165E71C97EBF8001058DD /* TransformUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TransformUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68E165EB1C97EBF8001058DD /* TransformUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TransformUITests.m; sourceTree = "<group>"; };
 		68E165ED1C97EBF8001058DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68E165F91C97ECA2001058DD /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				68E165CA1C97EBF8001058DD /* AppDelegate.m */,
 				68E165CC1C97EBF8001058DD /* ViewController.h */,
 				68E165CD1C97EBF8001058DD /* ViewController.m */,
+				68E165F91C97ECA2001058DD /* green.png */,
 				68E165CF1C97EBF8001058DD /* Main.storyboard */,
 				68E165D21C97EBF8001058DD /* Assets.xcassets */,
 				68E165D41C97EBF8001058DD /* LaunchScreen.storyboard */,
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				68E165D61C97EBF8001058DD /* LaunchScreen.storyboard in Resources */,
+				68E165FA1C97ECA2001058DD /* green.png in Resources */,
 				68E165D31C97EBF8001058DD /* Assets.xcassets in Resources */,
 				68E165D11C97EBF8001058DD /* Main.storyboard in Resources */,
 			);
